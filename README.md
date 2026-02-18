@@ -2,7 +2,7 @@
 
 Memoria y documentación del desarrollo del juego **"Eternal Eclipse"**.
 
-Proyecto final de FP, Grado Superior en Desarrollo Multiplataforma (DAW).
+Proyecto final de FP, Grado Superior en Desarrollo Multiplataforma (DAM).
 
 Al abrir el repositorio encontrarás:
 
